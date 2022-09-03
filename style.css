@@ -1,0 +1,12 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(0, 255, 255, 0.425);
+  border-radius: 12cm;
+  position: initial;
+}
+body{
+  background-color:rgba(235, 148, 43, 0.781);
+}
+h5{
+padding-left: 20%;
+}
